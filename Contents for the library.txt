@@ -1,0 +1,36 @@
+Contents for the library
+
+api
+    BaseApi
+components
+    BindableBuilder
+mixins
+    BindableMixin
+    EventActionMixin
+    WidgetMixin
+data
+    Bindable
+    Either
+    EventAction
+    Lazy
+    AsyncResponse
+    ModelConverter
+utils
+    ArrayUtils
+    DateTimeUtils
+    FutureUtils
+    StringUtils
+    SystemUtils
+    
+
+=====================
+Opinionated UI library
+=====================
+components
+    CircleLoader
+    DialogActionBar
+    FullHeight
+    FullWidth
+    GenericDialogBase
+    GenericFullDialogBase
+    ScrollableBody
